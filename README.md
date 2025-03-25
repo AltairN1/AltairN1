@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @AltairN1 (Koval Vasilii Alexandrovich)
 - 👀 I'm interested in programming on C++/Qt/UE5.
-- 🌱 I’m currently studying at the university for the 3rd year, majoring in Applied Informatics in Economics.
-- 📫 I live in St. Petersburg
 
 My email: altairn1@mail.ru
 
